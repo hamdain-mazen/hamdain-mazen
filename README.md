@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mazen</h1>
 <h3 align="center">Passionate of data and AI, living in France.</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Machine Learning**
 
